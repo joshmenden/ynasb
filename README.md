@@ -16,7 +16,7 @@ You can use a Slack slash command to get the budget for a specific category. For
 
 1. Clone the repo
 2. Create a file `.env`
-3. The `.env` file accepts two arguments, `SLACK_YNAB_WEBHOOK` and `YNAB_API_TOKEN`. (We'll go over how to get the Slack Webhook later, and for info in how to generate a YNAB api key, (click here)[https://api.youneedabudget.com/].)
+3. The `.env` file accepts two arguments, `SLACK_YNAB_WEBHOOK` and `YNAB_API_TOKEN`. (We'll go over how to get the Slack Webhook later, and for info in how to generate a YNAB api key, [click here](https://api.youneedabudget.com/).)
 4. Create a file `lib/config.js`
 5. Fill it out with the following information:
 
